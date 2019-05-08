@@ -11,5 +11,6 @@ export class Customer{
     password:string;
     contact:number;
     email:string;
+    address:Address;
     
 }
